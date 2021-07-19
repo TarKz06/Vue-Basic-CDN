@@ -4,7 +4,8 @@ new Vue({
         name: "Khematat Suphamittanont",
         job: "Student",
         age: 20,
-        status: false
+        status: false,
+        website:'https://www.youtube.com/'
     },
     methods:{
         getName:function(){
